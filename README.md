@@ -4,9 +4,9 @@ Document Matching and Keyword Analysis System compares multiple documents with a
 
 Structure:
  Project contains five main features:
-o	PDF Document Reading and Text Extraction
-o	Text Similarity Calculation
-o	Keyword Extraction
-o	Results Display with a Table and Bar Chart
-o	Interactive Chatbot using OpenAI API
+	PDF Document Reading and Text Extraction,
+	Text Similarity Calculation,
+	Keyword Extraction,
+Results Display with a Table and Bar Chart,
+Interactive Chatbot using OpenAI API
 
