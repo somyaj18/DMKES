@@ -8,5 +8,5 @@ Structure:
 	Text Similarity Calculation,
 	Keyword Extraction,
 Results Display with a Table and Bar Chart,
-Interactive Chatbot using OpenAI API
+Interactive Chatbot using Groq AI API
 
